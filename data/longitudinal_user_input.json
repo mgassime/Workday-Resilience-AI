@@ -1,0 +1,92 @@
+[
+  {
+    "timestamp": "2026-02-06T01:27:27.941686",
+    "user_input": {
+      "height": 170,
+      "weight": 90,
+      "bp_systolic": 125,
+      "bp_diastolic": 85,
+      "rhr": 80,
+      "body_fat": 0,
+      "waist_cm": 0,
+      "activity_level": "Sedentary",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:28:28.018129",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Standard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Hum/White Noise",
+      "temperature": "Comfortable",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:32:54.785486",
+    "user_input": {
+      "notes": "",
+      "hb": 0,
+      "wbc": 0,
+      "platelets": 0,
+      "glucose": 0,
+      "hba1c": 0,
+      "cholesterol": 0,
+      "triglycerides": 0,
+      "vit_d": 0,
+      "vit_b12": 0,
+      "tsh": 0,
+      "custom_name": "",
+      "custom_value": 0,
+      "custom_unit": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T05:25:06.790795",
+    "user_input": {
+      "notes": "",
+      "hb": 0,
+      "wbc": 0,
+      "platelets": 0,
+      "glucose": 0,
+      "hba1c": 0,
+      "cholesterol": 0,
+      "triglycerides": 0,
+      "vit_d": 0,
+      "vit_b12": 0,
+      "tsh": 0,
+      "custom_name": "",
+      "custom_value": 0,
+      "custom_unit": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:28:41.733914",
+    "user_input": {
+      "notes": "",
+      "hb": 15,
+      "wbc": 10000,
+      "platelets": null,
+      "glucose": 100,
+      "hba1c": 5,
+      "cholesterol": 200,
+      "triglycerides": 160,
+      "vit_d": 0,
+      "vit_b12": 0,
+      "tsh": 0,
+      "custom_name": "",
+      "custom_value": 0,
+      "custom_unit": ""
+    }
+  }
+]

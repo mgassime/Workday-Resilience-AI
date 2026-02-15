@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-02-10T00:01:32.263319",
+    "user_input": {
+      "height": 180,
+      "weight": 95,
+      "bp_systolic": 130,
+      "bp_diastolic": 90,
+      "rhr": 75,
+      "body_fat": 30,
+      "waist_cm": 0,
+      "activity_level": "Moderately active",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:01:51.754517",
+    "user_input": {
+      "height": 180,
+      "weight": 95,
+      "bp_systolic": 130,
+      "bp_diastolic": 90,
+      "rhr": 75,
+      "body_fat": 30,
+      "waist_cm": 0,
+      "activity_level": "Moderately active",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:22:19.243297",
+    "user_input": {
+      "height": 180,
+      "weight": 95,
+      "bp_systolic": 130,
+      "bp_diastolic": 90,
+      "rhr": 75,
+      "body_fat": 30,
+      "waist_cm": 0,
+      "activity_level": "Moderately active",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:21:17.812334",
+    "user_input": {
+      "height": 180.0,
+      "weight": 95.0,
+      "bp_systolic": 130,
+      "bp_diastolic": 90,
+      "rhr": 75,
+      "body_fat": 30.0,
+      "waist_cm": 0.0,
+      "activity_level": "Moderately active",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:21:54.997674",
+    "user_input": {
+      "height": 171.0,
+      "weight": 91.0,
+      "bp_systolic": 130,
+      "bp_diastolic": 90,
+      "rhr": 75,
+      "body_fat": 30.0,
+      "waist_cm": 0.0,
+      "activity_level": "Moderately active",
+      "notes": ""
+    }
+  }
+]

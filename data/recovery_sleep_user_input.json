@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-02-08T04:57:06.679239",
+    "user_input": {
+      "notes": "",
+      "hb": 15,
+      "wbc": 10000,
+      "platelets": 298,
+      "glucose": 100,
+      "hba1c": 5,
+      "cholesterol": 210,
+      "triglycerides": 160,
+      "vit_d": 25,
+      "vit_b12": 200,
+      "tsh": 0.4,
+      "custom_name": "",
+      "custom_value": null,
+      "custom_unit": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:21.805503",
+    "user_input": {
+      "pain_level": 5,
+      "onset_timing": "Mid-Day",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Lower Back"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Full & Painless",
+      "seated_duration": "1 hour",
+      "morning_stiffness": false,
+      "good_posture": true,
+      "triggers": [
+        "Stress/Tension",
+        "Cold Temperature",
+        "Poor Sleep"
+      ],
+      "relief_methods": [
+        "Stretching",
+        "Walking",
+        "Painkillers",
+        "Rest"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:47.959331",
+    "user_input": {
+      "water_intake": 0,
+      "caffeine_intake": 0.0,
+      "bottle_on_desk": false,
+      "sugary_drinks": 0.0,
+      "urine_color": "Yellow (Okay)",
+      "thirst_level": "Not Thirsty",
+      "symptoms": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:58:25.750563",
+    "user_input": {
+      "focus_quality": 5,
+      "deep_work": 0.0,
+      "flow_state": false,
+      "satisfaction": false,
+      "health_tax": 0,
+      "blocker": "None",
+      "peak_energy": "Late Morning",
+      "slump_severity": "Mild dip",
+      "top_distraction": "Notifications/Email",
+      "context_switching": "Low (Single Tasking)",
+      "methods": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:33:07.886411",
+    "user_input": {
+      "well_rested": false,
+      "sleep_hours": "5-7 hours",
+      "screen_cutoff": false,
+      "blue_light_filter": false,
+      "evening_movement": false,
+      "stress_level": 6,
+      "room_comfort": "Noisy"
+    }
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": "2026-02-06T01:12:19.663454",
+    "user_input": {
+      "pain_level": 4,
+      "onset_timing": "End of Workday",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Neck"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Limited (Stiff)",
+      "seated_duration": "1 hour",
+      "morning_stiffness": true,
+      "good_posture": false,
+      "triggers": [
+        "Stress/Tension",
+        "Long Typing Sessions",
+        "Cold Temperature"
+      ],
+      "relief_methods": [
+        "Stretching"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:25:36.062791",
+    "user_input": {
+      "pain_level": 4,
+      "onset_timing": "End of Workday",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Neck"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Limited (Stiff)",
+      "seated_duration": "1 hour",
+      "morning_stiffness": true,
+      "good_posture": false,
+      "triggers": [
+        "Stress/Tension",
+        "Long Typing Sessions",
+        "Cold Temperature"
+      ],
+      "relief_methods": [
+        "Stretching"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-06T01:33:00.836649",
+    "user_input": {
+      "pain_level": 4,
+      "onset_timing": "End of Workday",
+      "focus_area": [
+        "Shoulders/Upper Back",
+        "Neck"
+      ],
+      "pain_nature": "Stiffness/Tightness",
+      "neck_rom": "Limited (Stiff)",
+      "seated_duration": "1 hour",
+      "morning_stiffness": true,
+      "good_posture": false,
+      "triggers": [
+        "Stress/Tension",
+        "Long Typing Sessions",
+        "Cold Temperature"
+      ],
+      "relief_methods": [
+        "Stretching"
+      ],
+      "impact_work": true,
+      "impact_sleep": false,
+      "notes": ""
+    }
+  }
+]

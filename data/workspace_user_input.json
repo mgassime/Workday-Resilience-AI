@@ -1,0 +1,97 @@
+[
+  {
+    "timestamp": "2026-02-06T01:32:43.027845",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Standard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Hum/White Noise",
+      "temperature": "Comfortable",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T03:52:09.549397",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Standard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Hum/White Noise",
+      "temperature": "Comfortable",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:56:58.574356",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Standard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Distracting/Loud",
+      "temperature": "Cold",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:06:00.473970",
+    "user_input": {
+      "good_posture": false,
+      "breaks": "Few breaks",
+      "eat_at_desk": false,
+      "input_device": "Trackpad",
+      "keyboard_type": "Laptop Keyboard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": true,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Hum/White Noise",
+      "temperature": "Comfortable",
+      "clutter": "Average",
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:30:17.917708",
+    "user_input": {
+      "good_posture": true,
+      "breaks": "No breaks",
+      "eat_at_desk": true,
+      "input_device": "Standard Mouse",
+      "keyboard_type": "Laptop Keyboard",
+      "wrist_support": "No",
+      "armrests": "Level with desk",
+      "lumbar_support": false,
+      "monitor_height": "Below Eye Level (Looking Down)",
+      "feet_position": "Flat on floor",
+      "noise_level": "Distracting/Loud",
+      "temperature": "Cold",
+      "clutter": "Cluttered",
+      "notes": ""
+    }
+  }
+]

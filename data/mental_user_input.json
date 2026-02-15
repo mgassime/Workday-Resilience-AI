@@ -1,0 +1,101 @@
+[
+  {
+    "timestamp": "2026-02-06T01:33:11.763611",
+    "user_input": {
+      "stress": 5,
+      "mood": "Calm",
+      "energy": "Average",
+      "focus_quality": "Fragmented / Multitasking",
+      "workload": "Manageable",
+      "distractions": [],
+      "detachment": false,
+      "overwhelm": false,
+      "social": "Text/Chat only",
+      "sleep_quality": "Restorative",
+      "coping": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:40.418338",
+    "user_input": {
+      "stress": 5,
+      "mood": "Calm",
+      "energy": "Average",
+      "focus_quality": "Fragmented / Multitasking",
+      "workload": "Manageable",
+      "distractions": [],
+      "detachment": false,
+      "overwhelm": false,
+      "social": "Text/Chat only",
+      "sleep_quality": "Restorative",
+      "coping": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:33:57.884166",
+    "user_input": {
+      "stress": 8,
+      "mood": "Calm",
+      "energy": "Brain Fog/Sluggish",
+      "focus_quality": "Fragmented / Multitasking",
+      "workload": "Heavy",
+      "distractions": [
+        "Digital (Notifications)",
+        "Internal (Worry/Thoughts)"
+      ],
+      "detachment": false,
+      "overwhelm": false,
+      "social": "Text/Chat only",
+      "sleep_quality": "Restorative",
+      "coping": [],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:39:12.134700",
+    "user_input": {
+      "stress": 8,
+      "mood": "Calm",
+      "energy": "Brain Fog/Sluggish",
+      "focus_quality": "Deep Work / Flow",
+      "workload": "Heavy",
+      "distractions": [
+        "External (Noise/People)",
+        "Internal (Worry/Thoughts)"
+      ],
+      "detachment": false,
+      "overwhelm": false,
+      "social": "Text/Chat only",
+      "sleep_quality": "Trouble Falling Asleep",
+      "coping": [
+        "Caffeine/Sugar",
+        "Procrastination"
+      ],
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:55:37.469166",
+    "user_input": {
+      "stress": 7,
+      "mood": "Calm",
+      "energy": "Brain Fog/Sluggish",
+      "focus_quality": "Fragmented / Multitasking",
+      "workload": "Heavy",
+      "distractions": [
+        "External (Noise/People)"
+      ],
+      "detachment": true,
+      "overwhelm": false,
+      "social": "Text/Chat only",
+      "sleep_quality": "Restorative",
+      "coping": [
+        "Caffeine/Sugar",
+        "Procrastination"
+      ],
+      "notes": ""
+    }
+  }
+]

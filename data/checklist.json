@@ -1,0 +1,61 @@
+{
+  "updated_at": "2026-02-15T20:42:08.286025",
+  "items": [
+    {
+      "id": "749698fb-b5c2-489b-98f5-8365f91a74d0",
+      "item": "Stand up and stretch your shoulders and upper back.",
+      "type": "repetitive",
+      "priority": true,
+      "completed_today": false
+    },
+    {
+      "id": "0bd4c0e3-5e6d-4bb9-bf44-87a1aae08fdf",
+      "item": "Keep a water bottle at your desk and sip from it.",
+      "type": "repetitive",
+      "priority": true,
+      "completed_today": false
+    },
+    {
+      "id": "fab96b07-43c0-4a13-8b34-9fe1451c8b60",
+      "item": "Take 30 minutes for moderate physical activity today.",
+      "type": "repetitive",
+      "priority": false,
+      "completed_today": false
+    },
+    {
+      "id": "bdd40332-3353-4c39-88da-81b7e420ae87",
+      "item": "Adjust your chair height for better posture.",
+      "type": "non_repetitive",
+      "priority": false,
+      "completed_today": false
+    },
+    {
+      "id": "f472792c-60cd-477f-9b86-772835ac6897",
+      "item": "Position your monitor to reduce neck strain.",
+      "type": "non_repetitive",
+      "priority": false,
+      "completed_today": false
+    },
+    {
+      "id": "d4a347b9-0708-4f14-8120-67131080ef3f",
+      "item": "Adjust your workspace lighting to minimize glare.",
+      "type": "non_repetitive",
+      "priority": false,
+      "completed_today": false
+    },
+    {
+      "id": "c05d5ed7-550f-4532-8533-51755340cf1d",
+      "item": "Adjust your screen brightness to match ambient light.",
+      "type": "non_repetitive",
+      "priority": false,
+      "completed_today": false
+    },
+    {
+      "id": "e6eafb47-807e-4bd8-a5cf-264a3981c793",
+      "item": "Perform a self-assessment of your workstation ergonomics.",
+      "type": "non_repetitive",
+      "priority": false,
+      "completed_today": false
+    }
+  ]
+}

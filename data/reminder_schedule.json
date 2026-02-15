@@ -1,0 +1,313 @@
+{
+  "schedule": [
+    {
+      "time": "08:30",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "09:00",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "09:20",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "09:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "10:10",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "10:40",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "11:00",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        },
+        {
+          "text": "Check for signs of fatigue, dry mouth, or headaches, and increase water intake if needed."
+        }
+      ]
+    },
+    {
+      "time": "11:30",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "11:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "12:20",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "12:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "13:20",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "13:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        },
+        {
+          "text": "Check for signs of fatigue, dry mouth, or headaches, and increase water intake if needed."
+        }
+      ]
+    },
+    {
+      "time": "14:20",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "14:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "15:20",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Stand up, stretch, and move around your workspace."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        }
+      ]
+    },
+    {
+      "time": "15:50",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri"
+      ],
+      "combined_reminders": [
+        {
+          "text": "Look at something 20 feet away for at least 20 seconds (20-20-20 rule)."
+        },
+        {
+          "text": "Sip water consistently to stay hydrated."
+        },
+        {
+          "text": "Check for signs of fatigue, dry mouth, or headaches, and increase water intake if needed."
+        }
+      ]
+    }
+  ]
+}

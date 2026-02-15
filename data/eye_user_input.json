@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-02-06T01:33:06.171634",
+    "user_input": {
+      "strain_level": 0,
+      "session_length": "1-2 hours",
+      "symptoms": [],
+      "lighting": "Natural Light",
+      "screen_brightness": "Balanced",
+      "glare": false,
+      "distance_check": true,
+      "correction": "None (Naked Eye)",
+      "rule_20_20_20": "Occasionally",
+      "used_drops": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-08T04:57:33.288088",
+    "user_input": {
+      "strain_level": 0,
+      "session_length": "1-2 hours",
+      "symptoms": [],
+      "lighting": "Natural Light",
+      "screen_brightness": "Balanced",
+      "glare": false,
+      "distance_check": true,
+      "correction": "None (Naked Eye)",
+      "rule_20_20_20": "Occasionally",
+      "used_drops": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-09T23:31:31.718046",
+    "user_input": {
+      "strain_level": 4,
+      "session_length": "1-2 hours",
+      "symptoms": [
+        "Dryness / Gritty feeling",
+        "Blurred Vision (end of day)"
+      ],
+      "lighting": "Mixed",
+      "screen_brightness": "Brighter than room",
+      "glare": false,
+      "distance_check": true,
+      "correction": "Glasses",
+      "rule_20_20_20": "Occasionally",
+      "used_drops": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T00:19:37.978736",
+    "user_input": {
+      "strain_level": 10,
+      "session_length": "4+ hours",
+      "symptoms": [
+        "Eye Twitching",
+        "Headache (behind eyes)",
+        "Watery Eyes"
+      ],
+      "lighting": "Natural Light",
+      "screen_brightness": "Balanced",
+      "glare": false,
+      "distance_check": true,
+      "correction": "None (Naked Eye)",
+      "rule_20_20_20": "Occasionally",
+      "used_drops": false,
+      "notes": ""
+    }
+  },
+  {
+    "timestamp": "2026-02-10T01:30:54.842839",
+    "user_input": {
+      "strain_level": 6,
+      "session_length": "4+ hours",
+      "symptoms": [
+        "Eye Twitching",
+        "Headache (behind eyes)",
+        "Watery Eyes"
+      ],
+      "lighting": "Natural Light",
+      "screen_brightness": "Balanced",
+      "glare": false,
+      "distance_check": true,
+      "correction": "None (Naked Eye)",
+      "rule_20_20_20": "Occasionally",
+      "used_drops": false,
+      "notes": ""
+    }
+  }
+]
